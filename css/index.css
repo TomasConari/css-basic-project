@@ -1,0 +1,39 @@
+p {
+    border-style: inset;
+    background-color:rgb(253, 235, 226);
+}
+#sub{
+    font-size: 20px;
+}
+#tittle{
+    text-align: center;
+    background-color:rgb(253, 235, 226);
+    border-style: inset;
+    font-size: 25px
+}
+h1.sec{
+    border-style: inset;
+    background-color:rgb(253, 235, 226);
+}
+[href]:hover {
+    color:crimson;
+}
+body{
+    background-color:rgb(219, 196, 181)
+}
+*{
+    font-family: 'Lucida Sans';
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+.important{
+    text-align: right;
+}
+p.links{
+    color: blue;
+}
+.unordered-list th {
+    color: rgb(55, 83, 135);
+}
